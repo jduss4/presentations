@@ -3,10 +3,10 @@
 ## Short Papers
 
 - [Legacy No Longer: Designing Sustainable Systems for Website Development](2018_06_DH/legacy_no_longer.pdf)
-  - Dalziel, Karin; Dussault, Jessica; Tunink, Greg
+  - [Dalziel, Karin](https://github.com/karindalziel); Dussault, Jessica; [Tunink, Greg](https://github.com/techgique)
   - DH2018, June 2018 Mexico City
-- [Annotonia: Annotations from Browser to TEI](2017_08_DH/annotonia_short_paper.pdf)
-  - Tunink, Greg; Dalziel, Karin; Dussault, Jessica; Rau, Emily J.
+- [Annotonia: Annotations from Browser to TEI](2017_08_DH/annotonia_short_paper.pdf) ([conference abstract](https://dh2017.adho.org/abstracts/488/488.pdf))
+  - [Tunink, Greg](https://github.com/techgique); [Dalziel, Karin](https://github.com/karindalziel); Dussault, Jessica; [Rau, Emily J](https://github.com/ejrau).
   - DH2017, August 2017 Montreal
 
 ## Workshops and Presentations
@@ -21,5 +21,5 @@
 ## Posters
 
 - [Introducing the Open Online Newspaper Initiative](2017_08_DH/openoni_poster.pdf)
-  - Dussault, Jessica; Weakly, Laura; Dalziel, Karin; Echols, Jeremy; Estlund, Karen; Gearhart, Andrew; Rabun, Sheila; Tunink, Greg
+  - Dussault, Jessica; [Weakly, Laura](https://github.com/lweakly); [Dalziel, Karin](https://github.com/karindalziel); [Echols, Jeremy](https://github.com/jechols); Estlund, Karen; [Gearhart, Andrew](https://github.com/AndrewGearhart); Rabun, Sheila; [Tunink, Greg](https://github.com/techgique)
   - DH2017, August 2017 Montreal
