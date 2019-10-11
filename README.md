@@ -15,7 +15,7 @@ The following are a selection of papers or presentations in which I was an autho
 
 2018
 
-- [Legacy No Longer: Designing Sustainable Systems for Website Development](2018_06_DH/legacy_no_longer.pdf)
+- [Legacy No Longer: Designing Sustainable Systems for Website Development](2018_06_DH/legacy_no_longer.pdf) ([conference abstract](https://dh2018.adho.org/en/legacy-no-longer-designing-sustainable-systems-for-website-development/))
   - [Dalziel, Karin](https://github.com/karindalziel); Dussault, Jessica; [Tunink, Greg](https://github.com/techgique)
   - DH2018, June 2018 Mexico City
 
